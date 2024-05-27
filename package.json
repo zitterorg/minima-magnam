@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/minima-magnam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -25,7 +25,7 @@
     "@zitterorg/eum-veritatis-placeat": "^2.1.22",
     "@zitterorg/fluffy-waddle": "^2.7.24",
     "@zitterorg/glowing-barnacle": "^3.3.23",
-    "@zitterorg/illum-perferendis-consectetur": "^2.2.21",
+    "@zitterorg/illum-perferendis-consectetur": "^3.2.21",
     "@zitterorg/impedit-ex-praesentium": "^2.2.21",
     "@zitterorg/inventore-at-sit": "^3.1.21",
     "@zitterorg/itaque-nisi-veritatis": "^2.3.20",
